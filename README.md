@@ -12,5 +12,5 @@ The /src file contains all the codes for this project \
 This project is a software module for a data-driven industrial heater intelligent control system. The software terminal transmits instructions to a lower industrial computer through a serial port, supporting three heating modes: manual mode, normal mode, and automatic mode. This project can be deployed with the Loongson development board
 
 
-<img width="416" alt="image" src="https://github.com/Max-luo-song/Intelligent-Control-System-for-Industrial-Heaters-Based-on-Data-Driven/image/system structure.png">
+<img width="416" alt="image" src="https://github.com/Max-luo-song/Intelligent-Control-System-for-Industrial-Heaters-Based-on-Data-Driven/blob/main/image/system%20structure.png">
 
